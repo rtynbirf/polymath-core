@@ -2,7 +2,7 @@
  "hologram": 1,
  "root": "c223bd4a2f6a56783c1fbdb1b1f671fa61c3150ecf320c82796ea5763043a696",
  "n": 73,
- "storage": 68,
+ "storage": 36,
  "r": 3,
  "self": {
   "name": "polymath-core",
@@ -306,8 +306,26 @@
  ],
  "flesh": [
   {
+   "name": ".github",
+   "desc": ".github — дефолтные community health files",
+   "lang": "Python",
+   "cluster": ""
+  },
+  {
+   "name": "domovoy-tweaker",
+   "desc": "ДОМОВОЙ / MEGA=TWEAKER — Windows tweaker as a state, not an event: change ledger, drift sentinel, per-feature undo, effect verification. PowerShell prototype.",
+   "lang": "PowerShell",
+   "cluster": "OS"
+  },
+  {
    "name": "hologram",
    "desc": "осколок знает целое: Merkle-осколки + Рид-Соломон (Целое из любых k из n), 64 репо вселенной, стратегия слоёв",
+   "lang": "Python",
+   "cluster": ""
+  },
+  {
+   "name": "index",
+   "desc": "SSOT-хаб: реестр проектов, проверенные SHA, конституция веса",
    "lang": "Python",
    "cluster": ""
   },
