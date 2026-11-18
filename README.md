@@ -3,14 +3,14 @@
 > Общие органы всех агентов дома: один том — общие части, каждая глава — снимок оригинала.
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Штандарт polymath-core" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/banner.png" width="100%" alt="Штандарт polymath-core" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза polymath-core: мастерская ВИТРУВИЙ · ЧЕРТЁЖ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/repo-muse.svg" width="100%" alt="Муза polymath-core: мастерская ВИТРУВИЙ · ЧЕРТЁЖ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской ВИТРУВИЙ · ЧЕРТЁЖ" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/forge-divider.svg" width="62%" alt="делитель мастерской ВИТРУВИЙ · ЧЕРТЁЖ" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
