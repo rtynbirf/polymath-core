@@ -35,7 +35,7 @@
 
 | Глава | Источник | О чём |
 |---|---|---|
-| [polymath-gen](glavy/polymath-gen/) | [rtynbirf/polymath-gen](https://github.com/rtynbirf/polymath-gen) | автономный медиа-агент: задание человека → промпт → изображение/видео → самокритика |
+| [polymath-gen](https://github.com/rtynbirf/polymath-core/tree/main/glavy/polymath-gen) | [rtynbirf/polymath-gen](https://github.com/rtynbirf/polymath-gen) | автономный медиа-агент: задание человека → промпт → изображение/видео → самокритика |
 
 ## Как читать
 
