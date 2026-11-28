@@ -1,9 +1,7 @@
-# polymath-core — КНИГА ПОЛИМАТ-ЯДРА
-
-> Общие органы всех агентов дома: один том — общие части, каждая глава — снимок оригинала.
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/banner.png" width="100%" alt="Штандарт polymath-core" />
+
+<a href="https://github.com/rtynbirf/polymath-core"><img src="banner.png" width="100%" alt="polymath-core — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
@@ -16,13 +14,27 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-core в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-core №7 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 38 | 6 | 151 | 2026-11-28 | 1 |
+| 38 | 10 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# polymath-core — КНИГА ПОЛИМАТ-ЯДРА
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/.github/social-preview.png" alt="polymath-core" width="100%"></p>
+
+> Общие органы всех агентов дома: один том — общие части, каждая глава — снимок оригинала.
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-core@main/banner.png" width="100%" alt="Штандарт polymath-core" />
+</div>
+
+
+
+
 
 ## Что это
 
